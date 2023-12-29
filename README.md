@@ -5,7 +5,7 @@ This django-app allows you to add menus (one or more) to the database through th
 ## Installation
 
 ```bash
-git clone git@github.com:LianaSmile/tree-menu-django.git
+git clone https://github.com/lianakalpakchyan/tree-menu-django.git
 cd tree_menu
 python3 -m venv venv
 source venv/bin/activate
